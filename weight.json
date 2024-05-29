@@ -1,0 +1,35 @@
+{
+    "Fold 1": {
+        "1/5": {
+            "Training": {
+                "Accuracy": 0.72,
+                "F1 score": 0.74,
+                "Average training loss": 0.56
+            },
+            "Validation": {
+                "Accuracy": 0.86,
+                "F1 score": 0.87
+            }
+        },
+        "2/5": {
+            "Training": {
+                "Accuracy": 0.93,
+                "F1 score": 0.93,
+                "Average training loss": 0.27
+            },
+            "Validation": {
+                "Accuracy": 0.94,
+                "F1 score": 0.94
+            }
+        }
+    },
+    "Process": {
+        "complete": 20.0,
+        "Best_F1": [
+            0.94
+        ],
+        "Best_Accuracy": [
+            0.94
+        ]
+    }
+}
